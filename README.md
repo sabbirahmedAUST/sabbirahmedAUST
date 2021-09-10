@@ -7,7 +7,7 @@
 
 - 🖼️ Apart from basic engineering, I’m a part-time Graphics & UI/UX Designer [Find my co-related works!][Behance]!
 - 🌱 I’m currently learning MongoDB & React
-- 💼 I’m looking for an intern/ full paid job as front-end developer
+- 💼 I’m looking for an intern/ full paid job as a front-end developer
 - 🥅 2022 Goals: To establish myself as a front-end developer
 - 📰 [My Publications!][Academia]!
 - ⚡ Fun fact: I love to illustrate and travel.
