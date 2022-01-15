@@ -1,6 +1,6 @@
 ### Hi there, I'm Sabbir Ahmed 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/static/v1?label=SabbirAhmed&message=Portfolio&color=informational)](https://sabbirahmedaust.github.io/)
 
 
 ## I'm a Final Year Student with Computer Science & Engineering Background
@@ -65,7 +65,7 @@
 [illustrator]: https://github.com/sabbirahmedAUST/sabbirahmedAUST/tree/main/images/illustrator.png
 
 
-[website]: https://codeSTACKr.com
+[website]: https://sabbirahmedaust.github.io/
 [twitter]: https://twitter.com/sabbirahmed1123
 [Behance]: https://www.behance.net/sabbirahmed1123
 [linkedin]: https://www.linkedin.com/in/sabbir-ahmed-80257b1b8/
