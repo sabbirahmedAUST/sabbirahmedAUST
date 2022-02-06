@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/static/v1?label=SabbirAhmed&message=Portfolio&color=informational)](https://sabbirahmedaust.github.io/)
 
 
-## I've completed my BSc. from Computer Science and Engineering and working as an UI-UX Designeer at [Kite Games!][kitegames]!
+## I've completed my BSc. from Computer Science and Engineering and working as an UI-UX Designeer at [Kite Games][kitegames]!
 
 - 🖼️ Apart from basic engineering, I’m a part-time Graphics & UI/UX Designer [Find my co-related works!][Behance]!
 - 🌱 I’m currently learning MongoDB & React
