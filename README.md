@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/static/v1?label=SabbirAhmed&message=Portfolio&color=informational)](https://sabbirahmedaust.github.io/)
 
 
-## I'm a Final Year Student with Computer Science & Engineering Background
+## I've completed my BSc. from Computer Science and Engineering and working as an UI-UX Designeer at [Kite Games!][kitegames]!
 
 - 🖼️ Apart from basic engineering, I’m a part-time Graphics & UI/UX Designer [Find my co-related works!][Behance]!
 - 🌱 I’m currently learning MongoDB & React
-- 💼 I’m looking for an intern/ full paid job as a front-end developer
-- 🥅 2022 Goals: To establish myself as a front-end developer
+- 💼 I’m now looking for opportunities to improve my Developer skills
+- 🥅 2022 Goals: To establish myself as a UI-UX developer
 - 📰 [My Publications!][Academia]!
 - ⚡ Fun fact: I love to illustrate and travel.
 
@@ -70,6 +70,7 @@
 [Behance]: https://www.behance.net/sabbirahmed1123
 [linkedin]: https://www.linkedin.com/in/sabbir-ahmed-80257b1b8/
 [Academia]: https://aust.academia.edu/sabbirahmed?from_navbar=true
+[kitegames]: https://www.kitegamesstudio.com/
 
 
 
